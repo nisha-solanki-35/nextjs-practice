@@ -4,7 +4,7 @@ import Link from 'next/link'
 const about = () => {
     return (
         <div>
-            This is about us page
+            <p>This is about us page</p>
             <Link href='/'>Back to home</Link>
         </div>
     )

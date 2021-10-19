@@ -4,7 +4,7 @@ import Link from 'next/link'
 const contact = () => {
     return (
         <div>
-            This is contact us page
+            <p>This is contact us page</p>
             <Link href='/'>Back to home</Link>
         </div>
     )
